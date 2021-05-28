@@ -6,7 +6,7 @@ The circuit described here is based loosely on the circuit demonstrated in [this
 
 While the main circuit is quite simple, there is an addition to it (also depicted in the schematic file) that extends its functionality by indicating which of the four electrode pairs is active at a given time, by lighting up one of four LEDs. This is done by sensing the peak voltage being sent out through the electrodes and using that signal to turn LEDs on and off using a BJT (biopolar junction transistor) as a switch. This secondary circuit is best powered from a DC power source, independent from the signal being sent through the electrodes
 
-This repository contains the schematic file (.sch) which shows the various component types used in the circuit and the way they are connected. It also contains a video of the circuit in action to demonstrate its operation.
+This repository contains the schematic file (.sch) which shows the various component types used in the circuit and the way they are connected. It also contains a [video](https://drive.google.com/file/d/17aoE4caPd3qhUQ_ESQ56myHzBBdYeZDZ/view?usp=sharing) of the circuit in action to demonstrate its operation.
 
 # Note for future development
 
