@@ -1,4 +1,4 @@
-_Author: Bhaskar Yechuri, Engineering Technician & Research Assistant - Leitch Lab, UBC (bhaskar.yechuri@gmail.com)_
+_Author: [Bhaskar Yechuri](bhaskar.yechuri@gmail.com), Engineering Technician & Research Assistant at the [Leitch Lab](https://www.zoology.ubc.ca/person/duncan-leitch), University of British Columbia (Vancouver)_
 
 # Aquatic Electroreception Circuit - Summary
 
